@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[trstechnical]]></title>
         <description><![CDATA[trstechnical]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/trstechnical/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 01 Nov 2015 16:58:00 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 01 Nov 2015 19:10:06 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/trstechnical/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://trstechnical.com/_Media/2017-jaguar-f-pace-power_med_hr.jpeg">]]></description>
+            <link>http://trstechnical.com/portfolio/london-grammar---uk-2014-2.html</link>
+            <guid isPermaLink="false">a04ad1de-9d82-4f7e-8a4e-643f9802a8c1</guid>
+            <pubDate>Sun, 01 Nov 2015 19:09:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Getting Started on The Grid]]></title>
             <description><![CDATA[<article><h1>Getting Started on The Grid</h1><p>Click the pencil icon in the bottom left to read more...</p><img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/54dd53ebe4b086c0c0966e7a/images/5616ac809033602f2d9baebd/file-t8c0VXJ6mq.gif"></article>]]></description>
-            <link>undefinedgetting-started-on-the-grid/index.html</link>
+            <link>https://thegrid.ai/trstechnical/getting-started-on-the-grid/index.html</link>
             <guid isPermaLink="false">1e3ff6a7-b05a-4a35-9293-0f87c0cfca0b</guid>
             <pubDate>Sun, 01 Nov 2015 16:57:46 GMT</pubDate>
         </item>
